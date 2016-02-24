@@ -1,6 +1,5 @@
 package graph.model.orm
 
-import com.kreattiewe.neo4s.orm.NeoQuery
 import com.mrkaspa.neo4s.orm.{NeoQuery, NeoNodeOperations, NeoRelOperations}
 import graph.test.{HelperTest, NeoTest}
 

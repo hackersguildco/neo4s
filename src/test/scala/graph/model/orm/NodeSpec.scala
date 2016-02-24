@@ -8,9 +8,7 @@ import scala.concurrent.Await
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._
 import NeoNodeOperations._
-import NeoRelOperations._
 import graph.model.orm.UserNodes._
-import graph.model.orm.UserRels._
 import graph.model.orm.UserMappers._
 
 /**

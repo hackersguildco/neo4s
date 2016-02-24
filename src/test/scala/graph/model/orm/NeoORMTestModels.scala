@@ -1,6 +1,6 @@
 package graph.model.orm
 
-import com.kreattiewe.neo4s.orm._
+import com.mrkaspa.neo4s.orm._
 import com.kreattiewe.mapper.macros.Mappable
 import com.mrkaspa.neo4s.orm.{NeoNode, Mapper, NeoRel, Rel}
 
